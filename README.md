@@ -1,6 +1,6 @@
 # Trans
 emmmm.......
-//安装依赖
-yarn install
-//运行项目
-yarn dev
+<p>//安装依赖</p>
+<p>yarn install</p>
+<p>//运行项目</p>
+<p>yarn dev</p>
