@@ -1,0 +1,24 @@
+.main{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top:0px;
+  left:0;
+  background-color: antiquewhite;
+}
+
+.main>div{
+  width: 100%;
+  height: 100%;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+}
